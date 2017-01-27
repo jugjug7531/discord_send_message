@@ -1,2 +1,3 @@
-# discord_send_message
-# discord_send_message
+# 概要
+
+Discordへメッセージを送信するアプリ
